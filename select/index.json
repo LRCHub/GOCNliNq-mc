@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ラブヘイトマジョリティ",
+  "base_artist": "HoneyWorks",
+  "createdAt": "2026-03-06T10:16:25.217379Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ラブヘイトマジョリティ",
+      "artist": "HoneyWorks Feat. 芹沢千秋 (木村良平), 明智咲 (緑川光)",
+      "has_synced": false,
+      "path": "select/pl_01_ラブヘイトマジョリティ_HoneyWorks_Feat._芹沢千秋_(木村良平),_明智咲_(緑川光).txt"
+    }
+  ]
+}
